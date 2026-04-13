@@ -2,19 +2,19 @@
 
 Electrical Engineering student at K.D.K. College of Engineering (KDKCE), Nagpur with expertise in PLC, SCADA, and AutoCAD Electrical. Technical Lead for the state-level finalist project ARCM (DIPEX-2026) and a Global Leadership Fellow at Aspire Institute. Passionate about industrial automation and data-driven engineering solutions.
 
-# Automatic Radiator Cleaning Machine (ARCM) 🦾🚿
+# Automatic Radiator Cleaning Machine (ARCM) 
 
 > **A State-Level Finalist Project (DIPEX-2026) focused on automated industrial maintenance.**
 
 The Automatic Radiator Cleaning Machine (ARCM) is an automated system designed to efficiently clean industrial and automotive radiators. This project minimizes manual labor while significantly improving cleaning accuracy and consistency.
 
-## 🚀 Key Features
+## Key Features
 * **Automated Logic:** Powered by ESP32-based intelligent automation.
 * **Bluetooth Control:** Enables wireless operation for enhanced safety and convenience.
 * **Dual Mode:** Supports manual override and fully automatic cleaning cycles.
 * **Compact Design:** Portable and easily integrable with existing radiator systems.
 
-## 🖼️ Project Visuals
+## Project Visuals
 
 ### Block Diagram
 Illustrates the system workflow and component interconnections:
@@ -59,8 +59,7 @@ The ARCM system follows a structured operational flow to ensure precise and safe
 3. **Automated Cleaning Cycle:** The nozzle assembly moves across the radiator fins using high-torque DC motors.
 4. **Smart Reversal Logic:** Limit switches at both ends detect the boundary limits, triggering an automatic direction reversal for continuous cleaning cycles.
 5. **Real-time Monitoring:** An indicator LED and serial feedback provide constant status updates to the operator.
-6. 
-## 👨‍💻 Developed By
+##  Developed By
 **Virendra Katre**  
 *Electrical Engineering Student | Technical Lead*  
 [LinkedIn Profile](https://www.linkedin.com/in/virendrakatre) | [Portfolio](https://virendrakatre.carrd.co/)
