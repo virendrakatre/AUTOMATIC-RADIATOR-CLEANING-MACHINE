@@ -40,6 +40,26 @@ Structure and nozzle assembly of the machine:
 * **State-Level Finalist:** Successfully presented at DIPEX-2026, Chhatrapati Sambhaji Nagar
 * Developed at K.D.K. College of Engineering (KDKCE), Nagpur
 
+---
+
+## 📄 Project Documentation & Research Report
+
+For a comprehensive technical deep-dive into the project's design, methodology, and experimental results, please refer to the official project report:
+
+* **Full Project Report (PDF):** [View ARCM Technical Report on Google Drive](https://drive.google.com/file/d/1VWif7OUyil0HML438K4r7u9id3fKzNUk/view?usp=drivesdk)
+
+---
+
+## ⚙️ Operational Methodology
+
+The ARCM system follows a structured operational flow to ensure precise and safe cleaning:
+
+1. **System Initialization:** The machine establishes a Bluetooth connection with the user's terminal (Device ID: `P_ARCM`).
+2. **Command Processing:** Commands like 'S' (Start) and 'X' (Emergency Stop) are processed by the ESP32.
+3. **Automated Cleaning Cycle:** The nozzle assembly moves across the radiator fins using high-torque DC motors.
+4. **Smart Reversal Logic:** Limit switches at both ends detect the boundary limits, triggering an automatic direction reversal for continuous cleaning cycles.
+5. **Real-time Monitoring:** An indicator LED and serial feedback provide constant status updates to the operator.
+6. 
 ## 👨‍💻 Developed By
 **Virendra Katre**  
 *Electrical Engineering Student | Technical Lead*  
