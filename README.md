@@ -10,6 +10,23 @@ ARCM ek automated system hai jo industrial aur automotive radiators ko efficient
 * **Bluetooth Control:** Wireless operation for safety and ease of use.
 * **Dual Mode:** Manual override and fully automatic cleaning cycles.
 * **Compact Design:** Portable and easy to integrate with existing radiator setups.
+* ## 🖼️ Project Visuals
+
+### Block Diagram
+Project ka flow aur components ka connection:
+![Block Diagram](./1000057852.png)
+
+### Circuit Diagram
+ESP32, L298N, aur Limit Switches ke detailed connections:
+![Circuit Diagram](./1000057854.png)
+
+### Mechanical Design (CAD)
+Machine ka structure aur nozzle assembly:
+<p align="center">
+  <img src="./1000057846.png" width="45%" />
+  <img src="./1000057843.png" width="45%" />
+</p>
+
 * ## 🛠️ Tech Stack
 * **Microcontroller:** ESP32 (Wi-Fi + Bluetooth enabled)
 * **Programming:** C++ using Arduino IDE
